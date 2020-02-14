@@ -39,6 +39,6 @@ public class InsultGenerator {
             return "Database connection problem!";
         }
 
-        return theInsult + "\nIch bin ein Text";
+        return theInsult + "Ich bin ein Text";
     }
 }
